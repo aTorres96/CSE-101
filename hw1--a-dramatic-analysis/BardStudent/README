@@ -1,0 +1,17 @@
+Name: Alexander Torres
+Homework #1: A Dramatic Analysis
+Class: CSE 101 Introduction to Data Structures and Algorithms
+
+Citations:
+
+For the Bubble sort (bubsort) and swap functions I implemented the algorithm
+found on: https://www.geeksforgeeks.org/bubble-sort-for-linked-list-by-swapping-nodes/
+
+The templates I used for my header file, billfunctions.cpp, and main bard.cpp files
+were referenced from the LinkedList project created by Japheth Frolick and C. Seshadari.
+The functions I used from their project are, reverseList, length, and the linked list constructor.
+Other functions they wrote that are present in this file, although not used, are deleteList,
+and print(). I also used their code to stream, open and close files. I used their insert function
+and added code to check if the word was alreadt present and to increment the frequency of the word
+if it is already present. The struct node in the billheader.h header file was also created by Frolick
+and Seshadari, and I added the integer for frequency.
