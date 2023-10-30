@@ -1,0 +1,9 @@
+CSE 101 Homework 3
+
+Alexander Torres, November 2022
+
+	All of the functions except for the int, and void range functions,
+were originally written by C. Seshadhri, from the BST codes file, and I changed them to use strings.
+The wordrange file was written using C. Seshadhri's treewrapper.cpp file a template.
+	This file uses a binary search tree and finds the range of words between
+word1 and word2, by looking through the entire tree.
